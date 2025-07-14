@@ -74,11 +74,14 @@
     transition: 0.5s;
     color: white;
 }
-.about img{
+.about.py-5{
+    
+}
+/* .about img{
 -webkit-box-shadow: 6px 4px 41px 24px rgba(0,0,0,0.75);
 -moz-box-shadow: 6px 4px 41px-24px rgba(0,0,0,0.75);
 box-shadow: 6px 4px 41px-24px rgba(0,0,0,0.75);
-}
+} */
 
 .col-lg-7.pt-3 h1{
  font-size: 3rem;
